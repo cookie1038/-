@@ -1,2 +1,2 @@
-# SWS-Algorithm-Competition
+# Learn SWS language
 
